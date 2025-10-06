@@ -5,3 +5,4 @@ Add feature for X [9vT5KF] line 3.1
 Add feature for X [0csfg3] line 4.1
 Update documentation [opYM7k] line 5.1
 Improve performance [Thh2XT] line 10.1
+Fix issue in Y [zjKh87] line 11.2
