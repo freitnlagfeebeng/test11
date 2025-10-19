@@ -1,2 +1,5 @@
 Add feature for X [huD498] line 1.1
 Refactor codebase with Z [ge6R47] line 2.2
+Add feature for X [NFon6h] line 7.1
+Add feature for X [NFon6h] line 7.2
+Add feature for X [NFon6h] line 7.3
